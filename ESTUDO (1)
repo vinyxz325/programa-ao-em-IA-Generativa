@@ -1,0 +1,8 @@
+numeros_inteiros = 500
+numeros_decimais = 3,14
+texto = "o começo de tudo"
+status_robo = true
+print(type(numeros_inteiros))
+print(type(numeros_decimais))
+print(type(texto))
+print(type(status_robo)) 
